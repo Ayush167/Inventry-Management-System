@@ -1,0 +1,12 @@
+{"Transaction": {"prod": "1111", "Quantity": 1, "amount": 100, "Time": "Fri Sep  3 23:02:56 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1112", "Quantity": 2, "amount": 8, "Time": "Fri Sep  3 23:07:55 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1113", "Quantity": 1, "amount": 75, "Time": "Fri Sep  3 23:10:33 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1114", "Quantity": 1, "amount": 180, "Time": "Fri Sep  3 23:12:42 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1115", "Quantity": 3, "amount": 750, "Time": "Fri Sep  3 23:14:12 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1116", "Quantity": 4, "amount": 120, "Time": "Fri Sep  3 23:16:32 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1117", "Quantity": 1, "amount": 100, "Time": "Fri Sep  3 23:17:59 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1118", "Quantity": 4, "amount": 120, "Time": "Fri Sep  3 23:19:38 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1119", "Quantity": 1, "amount": 250, "Time": "Fri Sep  3 23:21:58 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1120", "Quantity": 1, "amount": 75, "Time": "Fri Sep  3 23:23:56 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1121", "Quantity": 3, "amount": 750, "Time": "Fri Sep  3 23:23:56 2021", "expiry_date": "1 Year"}}
+{"Transaction": {"prod": "1122", "Quantity": 4, "amount": 840, "Time": "Fri Sep  3 23:23:56 2021", "expiry_date": "1 Year"}}
